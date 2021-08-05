@@ -1,0 +1,62 @@
+{
+    "Is1v1": true,
+    "CountryCode": "in",
+    "LobbyId": 2544518,
+    "GameId": 1000136,
+    "landscape": false,
+    "IsAsyncGame": false,
+    "GameName": "Mahjong",
+    "SessionId": "KjkOYXYrIK986K3khWD6",
+    "StartTime": 1532935460372,
+    "TournamentEndTime": 0,
+    "TournamentId": 0,
+    "TournamentName": "Default",
+    "GameConfigName": "Default",
+    "MaxPauseDuration": 15,
+    "SequenceInterval": 10000,
+    "IsLogEnabled": true,
+    "Host": "dgs3.mpl.live",
+    "Zone": "MPLSFS2X",
+    "IsInDebugMode": true,
+    "ConnectionRetryTimeout": 10,
+    "CreateGameTimeout": 30,
+    "BattleAgainTimeout": 10,
+    "PingInterval": 5,
+    "MaxPongDelay": 10,
+    "EntryFee": 0,
+    "EntryCurrency": "CASH",
+    "TournamentType": "1v1",
+    "CreatingGameSubtitleText": "Battle Fee will be refunded if Battle does not start!",
+    "ShowCreatingGameSubtitle": true,
+    "ICLostTitle": "Error Title",
+    "ICLostMessage": "Error Message",
+    "LoadingMessages1v1": [
+        "Loading Message 1!",
+        "Loading Message 2"
+    ],
+    "AuthToken": "KQQRU=LvX{Ka<2vkOhoxmeKQxkOHXVmniN:uN{3G.xpPQUf-R!-[MlonJ7$-Wq2M7(-Y%%!Zbg5Fn=^[hJcPFKI(3;g/JzF)/iSm3-Xj=1Nqqa-9J6DD3ofB^$?E%5+@4fT#MU7-H1;ikODwQ3l0EJ#Lap<:$Ah:%A<L/]/yT9W(4GVW@2n-Vd}mII]LVcW{F{N;jEgC?",
+    "Profile": {
+        "id": 5090,
+        "mobileNumber": "+919606622168",
+        "displayName": "96*****168",
+        "avatars": {
+            "small": "",
+            "regular": ""
+        },
+        "avatar": "",
+        "newUser": false,
+        "referralCode": "FZNQ51",
+        "coverPhoto": "",
+        "coverPhotos": {
+            "small": "",
+            "regular": ""
+        },
+        "tier": "Gold",
+        "pro": true,
+        "ownProfile": false
+    },
+
+    "TurnTimer": 0,
+    "RejoinTimer": 0
+
+}

@@ -1,0 +1,210 @@
+ManifestFileVersion: 0
+CRC: 361391517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 410d7371a0a58324690cbe860bf4f07f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41124553a51bc9f93c473e70e8fce1ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 221e412112bbb1f41882909da018ab7c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c7df4c144322459392e8249c615fa84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc6426f13e1834e79ad6d097376a454b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99bfdd846cc75f84ca1a9e607398bee8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b093059ab563e4bc98af851eabce900b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dbe5c5b4bc4447beb0c8e8b1a04308d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9420ebcd9c3dd14499b13a3da2f5dae6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Color Roller Game assets/Scenes/Level31.unity
+- Assets/Color Roller Game assets/Scenes/Level54.unity
+- Assets/Color Roller Game assets/Scenes/Level5.unity
+- Assets/Color Roller Game assets/Scenes/GameScene.unity
+- Assets/Color Roller Game assets/Scenes/Level87.unity
+- Assets/Color Roller Game assets/Scenes/Level20.unity
+- Assets/Color Roller Game assets/Scenes/Level88.unity
+- Assets/Color Roller Game assets/Scenes/Level100.unity
+- Assets/Color Roller Game assets/Scenes/Level92.unity
+- Assets/Color Roller Game assets/Scenes/Level71.unity
+- Assets/Color Roller Game assets/Scenes/Level42.unity
+- Assets/Color Roller Game assets/Scenes/Level86.unity
+- Assets/Color Roller Game assets/Scenes/Level17.unity
+- Assets/Color Roller Game assets/Scenes/Level69.unity
+- Assets/Color Roller Game assets/Scenes/Level40.unity
+- Assets/Color Roller Game assets/Scenes/Level39.unity
+- Assets/Color Roller Game assets/Scenes/Level99.unity
+- Assets/Color Roller Game assets/Scenes/Level45.unity
+- Assets/Color Roller Game assets/Scenes/Level23.unity
+- Assets/Color Roller Game assets/Scenes/Level14.unity
+- Assets/Color Roller Game assets/Scenes/Level55.unity
+- Assets/Color Roller Game assets/Scenes/Level44.unity
+- Assets/Color Roller Game assets/Scenes/Level76.unity
+- Assets/Color Roller Game assets/Scenes/Level80.unity
+- Assets/Color Roller Game assets/Scenes/Level72.unity
+- Assets/Color Roller Game assets/Scenes/Level29.unity
+- Assets/Color Roller Game assets/Scenes/Level77.unity
+- Assets/Color Roller Game assets/Scenes/Level50.unity
+- Assets/Color Roller Game assets/Scenes/Level7.unity
+- Assets/Color Roller Game assets/Scenes/Level10.unity
+- Assets/Color Roller Game assets/Scenes/Level66.unity
+- Assets/Color Roller Game assets/Scenes/Level81.unity
+- Assets/Color Roller Game assets/Scenes/Level34.unity
+- Assets/Color Roller Game assets/Scenes/Level21.unity
+- Assets/Color Roller Game assets/Scenes/Level91.unity
+- Assets/Color Roller Game assets/Scenes/Level51.unity
+- Assets/Color Roller Game assets/Scenes/Level32.unity
+- Assets/Color Roller Game assets/Scenes/Level93.unity
+- Assets/Color Roller Game assets/Scenes/Level47.unity
+- Assets/Color Roller Game assets/Scenes/Level24.unity
+- Assets/Color Roller Game assets/Scenes/Level37.unity
+- Assets/Color Roller Game assets/Scenes/Level70.unity
+- Assets/Color Roller Game assets/Scenes/Level48.unity
+- Assets/Color Roller Game assets/Scenes/Level82.unity
+- Assets/Color Roller Game assets/Scenes/Level8.unity
+- Assets/Color Roller Game assets/Scenes/Level16.unity
+- Assets/Color Roller Game assets/Scenes/Level12.unity
+- Assets/Color Roller Game assets/Scenes/Level83.unity
+- Assets/Color Roller Game assets/Scenes/Level98.unity
+- Assets/Color Roller Game assets/Scenes/Level38.unity
+- Assets/Color Roller Game assets/Scenes/Level33.unity
+- Assets/Color Roller Game assets/Scenes/Level67.unity
+- Assets/Color Roller Game assets/Scenes/Level30.unity
+- Assets/Color Roller Game assets/Scenes/Level62.unity
+- Assets/Color Roller Game assets/Scenes/Level58.unity
+- Assets/Color Roller Game assets/Scenes/Level59.unity
+- Assets/Color Roller Game assets/Scenes/Level25.unity
+- Assets/Color Roller Game assets/Scenes/Level57.unity
+- Assets/Color Roller Game assets/Scenes/Level13.unity
+- Assets/Color Roller Game assets/Scenes/Level35.unity
+- Assets/Color Roller Game assets/Scenes/Level60.unity
+- Assets/Color Roller Game assets/Scenes/Level49.unity
+- Assets/Color Roller Game assets/Scenes/Level73.unity
+- Assets/Color Roller Game assets/Scenes/Level65.unity
+- Assets/Color Roller Game assets/Scenes/Level22.unity
+- Assets/Color Roller Game assets/Scenes/Level64.unity
+- Assets/Color Roller Game assets/Scenes/Level52.unity
+- Assets/Color Roller Game assets/Scenes/Level96.unity
+- Assets/Color Roller Game assets/Scenes/Level78.unity
+- Assets/Color Roller Game assets/Scenes/Level27.unity
+- Assets/Color Roller Game assets/Scenes/Level28.unity
+- Assets/Color Roller Game assets/Scenes/Level61.unity
+- Assets/Color Roller Game assets/Scenes/Level41.unity
+- Assets/Color Roller Game assets/Scenes/Level11.unity
+- Assets/Color Roller Game assets/Scenes/Level90.unity
+- Assets/Color Roller Game assets/Scenes/Level3.unity
+- Assets/Color Roller Game assets/Scenes/Level53.unity
+- Assets/Color Roller Game assets/Scenes/Level56.unity
+- Assets/Color Roller Game assets/Scenes/Level89.unity
+- Assets/Color Roller Game assets/Scenes/Level74.unity
+- Assets/Color Roller Game assets/Scenes/Level94.unity
+- Assets/Color Roller Game assets/Scenes/Level68.unity
+- Assets/Color Roller Game assets/Scenes/Level9.unity
+- Assets/Color Roller Game assets/Scenes/Level6.unity
+- Assets/Color Roller Game assets/Scenes/Level97.unity
+- Assets/Color Roller Game assets/Scenes/Level15.unity
+- Assets/Color Roller Game assets/Scenes/Level79.unity
+- Assets/Color Roller Game assets/Scenes/Level63.unity
+- Assets/Color Roller Game assets/Scenes/Level19.unity
+- Assets/Color Roller Game assets/Scenes/Level85.unity
+- Assets/Color Roller Game assets/Scenes/Level26.unity
+- Assets/Color Roller Game assets/Scenes/Level18.unity
+- Assets/Color Roller Game assets/Scenes/Level36.unity
+- Assets/Color Roller Game assets/Scenes/Level95.unity
+- Assets/Color Roller Game assets/Scenes/Level4.unity
+- Assets/Color Roller Game assets/Scenes/Level43.unity
+- Assets/Color Roller Game assets/Scenes/Level84.unity
+- Assets/Color Roller Game assets/Scenes/Level46.unity
+- Assets/Color Roller Game assets/Scenes/Level75.unity
+- Assets/Color Roller Game assets/Scenes/Level2.unity
+- Assets/Color Roller Game assets/Scenes/Level1.unity
+Dependencies: []
